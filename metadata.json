@@ -1,0 +1,7 @@
+{
+  "name": "MediCare Online Management System",
+  "description": "A comprehensive healthcare e-commerce and inventory management platform for browsing, ordering medicines, and managing pharmacy operations with roles for patients and admins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
